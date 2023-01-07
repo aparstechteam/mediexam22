@@ -1,0 +1,1 @@
+const c="https://script.google.com/macros/s/AKfycbyYgQUs0eTgvQHM_oIwIZMlHnHhGMim3g6V21qXLu6Fht3v5RMBjUIUcM8y7yKpnW3a/exec",s="https://script.google.com/macros/s/AKfycbwtPW9O2bDv8ARjAb8UcKtuWa67lSZVXk70QUwdu-wSCBnWzZbxJOi8shJgLZg7dPZy/exec?course=mediexam_22&access_code=";export{s as a,c as e};
